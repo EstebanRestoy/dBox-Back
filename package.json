@@ -1,0 +1,26 @@
+{
+  "name": "dbox-back",
+  "version": "1.0.0",
+  "description": "An IOT project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstebanRestoy/dBox-Back.git"
+  },
+  "keywords": [
+    "IOT"
+  ],
+  "author": "Esteban & Laurent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstebanRestoy/dBox-Back/issues"
+  },
+  "homepage": "https://github.com/EstebanRestoy/dBox-Back#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
